@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pointinfo>
+
+<point key="taiji" name="退治按键" x="0.78" y="0.47"/>
+<point key="center" name="屏幕中心" x="0.5" y="0.5" />
+
+<group key="hardness" name="难度">
+	<point key="easy" name="简单" x="0.31" y="0.7" />
+	<point key="normal" name="普通" x="0.44" y="0.7" />
+	<point key="hard" name="普通" x="0.57" y="0.7" />
+	<point key="lunatic" name="普通" x="0.68" y="0.7" />
+</group>
+
+<group key="submap" name="地图分项">
+	<point key="1" name="第一张地图" x="0.8" y="0.177" />
+	<point key="2" name="第二张地图" x="0.8" y="0.354" />
+	<point key="3" name="第三张地图" x="0.8" y="0.533" />
+	<point key="4" name="第四张地图" x="0.8" y="0.713" />
+</group>
+
+<group key="team" name="队伍">
+	<point key="1" name="队伍1" x="0.2" y="0.117" />
+	<point key="2" name="队伍2" x="0.3" y="0.117" />
+	<point key="3" name="队伍3" x="0.4" y="0.117" />
+	<point key="4" name="队伍4" x="0.49" y="0.117" />
+	<point key="5" name="队伍5" x="0.58" y="0.117" />
+</group>
+
+<point key="go" name="出击" x="0.49" y="0.83" />
+<point key="forward" name="前进" x="0.68" y="0.32" />
+<point key="goback" name="撤退" x="0.68" y="0.64" />
+<point key="saizen" name="领工资" x="0.618" y="0.177" />
+<point key="main_blank" name="主界面空白处" x="0.9" y="0.35" />
+
+</pointinfo>

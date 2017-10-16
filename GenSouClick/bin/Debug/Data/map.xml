@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mapinfo>
+
+<map key="hakurei" name="博丽神社" x="0.9" y="0.343">
+	
+</map>
+
+<map key="beast" name="兽道" x="0.873" y="0.5866">
+	<submap id="1" name="毛玉" />
+	<submap id="2" name="兽道" />
+	<submap id="3" name="竞技场" />
+</map>
+
+<map key="gengo" name="玄武之泽" x="0.2776" y="0.55">
+	<submap id="1" name="河童" />
+</map>
+
+<map key="mahou" name="魔法之森" x="0.51" y="0.684">
+	<submap id="1" name="魔法之森" />
+	<submap id="2" name="摸你傻" />
+	<submap id="3" name="爱丽丝" />
+</map>
+
+<map key="ningen" name="人间之里" x="0.577" y="0.55">
+	<submap id="1" name="农田" />
+	<submap id="2" name="坟场战车" />
+</map>
+
+<map key="lake" name="雾之湖" x="0.524" y="0.43">
+	<submap id="1" name="黑暗森林" />
+	<submap id="2" name="雾之湖" />
+</map>
+
+<map key="yama" name="妖怪之山" x="0.305" y="0.348">
+	<submap id="1" name="前哨" />
+	<submap id="2" name="果林" />
+	<submap id="3" name="村落" />
+</map>
+
+<map key="moriya" name="守矢神社" x="0.278" y="0.123">
+	<submap id="1" name="神社" />
+	<submap id="2" name="御柱墓场" />
+	<submap id="3" name="月球基地" />
+</map>
+
+<map key="meizu" name="迷途之家" x="0.394" y="0.221">
+	<submap id="1" name="迷途" />
+	<submap id="2" name="裂口" />
+	<submap id="3" name="内部" />
+</map>
+
+<map key="kouma" name="红魔馆" x="0.52" y="0.31">
+	<submap id="1" name="前院" />
+	<submap id="2" name="图书馆" />
+	<submap id="3" name="大厅" />
+	<submap id="4" name="地下室" />
+</map>
+
+<map key="take" name="竹林" x="0.84" y="0.881">
+	<submap id="1" name="迷途竹林" />
+	<submap id="2" name="小屋" />
+	<submap id="3" name="永远亭" />
+</map>
+
+<map key="haku" name="白玉楼" x="0.822" y="0.193">
+	<submap id="1" name="结界" />
+	<submap id="2" name="阶梯" />
+	<submap id="3" name="白玉楼" />
+</map>
+
+<map key="inochi" name="命莲寺" x="0.71" y="0.47">
+	<submap id="1" name="前门" />
+	<submap id="2" name="圣辇船" />
+	<submap id="3" name="命莲寺" />
+</map>
+
+<map key="ankoku" name="黑暗风穴" x="0.193" y="0.233">
+	<submap id="1" name="风穴" />
+	<submap id="2" name="旧都" />
+	<submap id="3" name="地灵殿" />
+	<submap id="4" name="熔炉" />
+</map>
+
+<map key="halloween" name="万圣节" x="0.5" y="0.87">
+
+</map>
+
+</mapinfo>

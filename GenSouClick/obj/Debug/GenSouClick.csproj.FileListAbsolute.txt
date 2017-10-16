@@ -1,0 +1,17 @@
+D:\VisualStudioProjects\GenSouClick\GenSouClick\bin\Debug\GenSouClick.exe
+D:\VisualStudioProjects\GenSouClick\GenSouClick\bin\Debug\GenSouClick.pdb
+D:\VisualStudioProjects\GenSouClick\GenSouClick\obj\Debug\GenSouClick.Form1.resources
+D:\VisualStudioProjects\GenSouClick\GenSouClick\obj\Debug\GenSouClick.Properties.Resources.resources
+D:\VisualStudioProjects\GenSouClick\GenSouClick\obj\Debug\GenSouClick.csproj.GenerateResource.Cache
+D:\VisualStudioProjects\GenSouClick\GenSouClick\obj\Debug\GenSouClick.exe
+D:\VisualStudioProjects\GenSouClick\GenSouClick\obj\Debug\GenSouClick.pdb
+H:\MinnanoGenSouKyou\GenSouClick\GenSouClick\obj\Debug\GenSouClick.exe
+H:\MinnanoGenSouKyou\GenSouClick\GenSouClick\obj\Debug\GenSouClick.pdb
+H:\MinnanoGenSouKyou\GenSouClick\GenSouClick\bin\Debug\GenSouClick.exe
+H:\MinnanoGenSouKyou\GenSouClick\GenSouClick\bin\Debug\GenSouClick.pdb
+H:\MinnanoGenSouKyou\GenSouClick\GenSouClick\obj\Debug\GenSouClick.csprojResolveAssemblyReference.cache
+H:\MinnanoGenSouKyou\GenSouClick\GenSouClick\obj\Debug\GenSouClick.Form1.resources
+H:\MinnanoGenSouKyou\GenSouClick\GenSouClick\obj\Debug\GenSouClick.Properties.Resources.resources
+H:\MinnanoGenSouKyou\GenSouClick\GenSouClick\obj\Debug\GenSouClick.csproj.GenerateResource.Cache
+D:\VisualStudioProjects\GenSouClick\GenSouClick\obj\Debug\GenSouClick.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\GenSouClick\GenSouClick\bin\Debug\LuaInterface.dll

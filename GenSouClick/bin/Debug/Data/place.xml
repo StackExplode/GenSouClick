@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<placeinfo>
+
+<place key="main" name="主界面">
+	<attr x="0.675" y="0.2" r="177" g="71" b="82" tor="10" />
+	<attr x="0.654" y="0.817" r="111" g="111" b="104" tor="10" />
+	<attr x="0.77" y="0.85" r="255" g="255" b="255" tor="5" />
+</place>
+
+<place key="map" name="大地图">
+	<attr x="0.116" y="0.84" r="250" g="250" b="250" tor="10" />
+	<attr x="0.765" y="0.384" r="53" g="178" b="203" tor="10"/>
+	<attr x="0.336" y="0.636" r="155" g="180" b="50" tor="10" />
+</place>
+
+<place key="hardness" name="难度选择">
+	<attr x="0.3264" y="0.2531" r="234" g="230" b="204" tor="10" />
+	<attr x="0.69" y="0.2917" r="234" g="230" b="204" tor="10" />
+	<attr x="0.4876" y="0.5378" r="244" g="240" b="215" tor="10" />
+</place>
+
+<place key="standby" name="准备界面">
+	<attr x="0.56" y="0.0438" r="198" g="202" b="79" tor="10" />
+	<attr x="0.8266" y="0.1255" r="168" g="7" b="16" tor="10" />
+	<attr x="0.917" y="0.596" r="156" g="156" b="147" tor="10" />
+</place>
+
+<place key="scorebord" name="计分板">
+	<attr x="0.3" y="0.3725" r="214" g="206" b="181" tor="10" />
+	<attr x="0.3" y="0.498" r="214" g="206" b="181" tor="10" />
+	<attr x="0.3" y="0.5916" r="214" g="206" b="181" tor="10" />
+	<attr x="0.3" y="0.725" r="214" g="206" b="181" tor="10" />
+</place>
+
+<place key="forward" name="前进按钮">
+	<attr x="0.5515" y="0.3088" r="55" g="8" b="57" tor="12" />
+</place>
+
+</placeinfo>
