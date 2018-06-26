@@ -7,3 +7,11 @@ D:\VisualStudioProjects\GenSouClick\GenSouClick\obj\Release\GenSouClick.exe
 D:\VisualStudioProjects\GenSouClick\GenSouClick\obj\Release\GenSouClick.pdb
 D:\VisualStudioProjects\GenSouClick\GenSouClick\obj\Release\GenSouClick.csprojResolveAssemblyReference.cache
 D:\VisualStudioProjects\GenSouClick\GenSouClick\bin\Release\LuaInterface.dll
+D:\VisualStudioProjects\GitDownTest\GenSouClick\GenSouClick\obj\Release\GenSouClick.exe
+D:\VisualStudioProjects\GitDownTest\GenSouClick\GenSouClick\obj\Release\GenSouClick.pdb
+D:\VisualStudioProjects\GitDownTest\GenSouClick\GenSouClick\bin\Release\GenSouClick.exe
+D:\VisualStudioProjects\GitDownTest\GenSouClick\GenSouClick\bin\Release\GenSouClick.pdb
+D:\VisualStudioProjects\GitDownTest\GenSouClick\GenSouClick\obj\Release\GenSouClick.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\GitDownTest\GenSouClick\GenSouClick\obj\Release\GenSouClick.Form1.resources
+D:\VisualStudioProjects\GitDownTest\GenSouClick\GenSouClick\obj\Release\GenSouClick.Properties.Resources.resources
+D:\VisualStudioProjects\GitDownTest\GenSouClick\GenSouClick\obj\Release\GenSouClick.csproj.GenerateResource.Cache

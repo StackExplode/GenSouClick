@@ -13,6 +13,7 @@ using GenSouClick.BLL;
 using System.IO;
 using System.Diagnostics;
 
+//我是修改内容
 namespace GenSouClick
 {
     public partial class Form1 : Form
